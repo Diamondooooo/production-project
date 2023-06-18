@@ -14,7 +14,7 @@
     // опред то, какие импорты будут в 99% исп node, 1% classic
     "moduleResolution": "node",
     // Для абсолютного импорта
-    // "baseUrl": ".",
+    "baseUrl": ".",
     // esModuleInterop позволяет работать с пакетами, которые используют
     // common js как с обычными пакетами с помощью import (require() module.export) = common js
     // import Moment from 'moment';
