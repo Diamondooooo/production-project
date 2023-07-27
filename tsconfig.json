@@ -11,6 +11,7 @@
     "jsx": "react-jsx",
     // Компилятор будет обрабатывать не только TS файлы, но и JS файлы
     "allowJs": true,
+    "strict": true,
     // опред то, какие импорты будут в 99% исп node, 1% classic
     "moduleResolution": "node",
     // Для абсолютного импорта
