@@ -1,7 +1,6 @@
 import type { ComponentMeta, ComponentStory } from '@storybook/react';
-import { Currency } from 'entities/Currency';
 import { Country } from 'entities/Country';
-import avatar from 'shared/assets/tests/storybook.jpg';
+import { Currency } from 'entities/Currency';
 import { ProfileCard } from './ProfileCard';
 
 export default {
@@ -24,7 +23,7 @@ Primary.args = {
         first: 'asd',
         city: 'asf',
         currency: Currency.USD,
-        avatar,
+        avatar: 'https://kartinki.pibig.info/uploads/posts/2023-04/1681924974_kartinki-pibig-info-p-kompyutershchik-kartinki-arti-vkontakte-33.jpg',
     },
 };
 
