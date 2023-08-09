@@ -28,7 +28,7 @@ export const Avatar = (props: AvatarProps) => {
             src={src}
             alt={alt}
             style={styles}
-            className={classNames(cls.Avatar, {}, [className])}
+            className={classNames(cls.Avatar, mods, [className])}
         />
     );
 };
