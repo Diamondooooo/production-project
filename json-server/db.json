@@ -102,6 +102,30 @@
       "text": "some comment 3",
       "articleId": "1",
       "userId": "1"
+    },
+    {
+      "articleId": "1",
+      "userId": "1",
+      "text": "ssadsad",
+      "id": "KydHNPx"
+    },
+    {
+      "articleId": "1",
+      "userId": "1",
+      "text": "ssadsadsdsadsa",
+      "id": "V4IwDvo"
+    },
+    {
+      "articleId": "1",
+      "userId": "2",
+      "text": "1234sfdf",
+      "id": "tw6wHe6"
+    },
+    {
+      "articleId": "1",
+      "userId": "2",
+      "text": "Привет мир!",
+      "id": "Y07_NXj"
     }
   ],
   "users": [
@@ -120,14 +144,28 @@
       "avatar": "https://xakep.ru/wp-content/uploads/2018/05/171485/KuroiSH-hacker.jpg"
     }
   ],
-  "profile": {
-    "first": "jgh",
-    "lastname": "asf",
-    "age": 465,
-    "currency": "RUB",
-    "country": "Belarus",
-    "city": "Moscow",
-    "username": "admin213",
-    "avatar": "https://xakep.ru/wp-content/uploads/2018/05/171485/KuroiSH-hacker.jpg"
-  }
+  "profile": [
+    {
+      "id": "1",
+      "first": "jgh",
+      "lastname": "asf",
+      "age": 465,
+      "currency": "RUB",
+      "country": "Belarus",
+      "city": "Moscow",
+      "username": "admin213",
+      "avatar": "https://xakep.ru/wp-content/uploads/2018/05/171485/KuroiSH-hacker.jpg"
+    },
+    {
+      "id": "2",
+      "first": "Almas",
+      "lastname": "Sgv",
+      "age": 465,
+      "currency": "RUB",
+      "country": "Russia",
+      "city": "Moscow",
+      "username": "Almas",
+      "avatar": "https://xakep.ru/wp-content/uploads/2016/02/anon.jpg"
+    }
+  ]
 }
